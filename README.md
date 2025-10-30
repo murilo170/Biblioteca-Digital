@@ -28,7 +28,7 @@ O projeto exige o ambiente Java (JDK) configurado.
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone https://github.com/murilo170/Biblioteca-Digital
     cd nome-do-seu-repositorio-java
     ```
 2.  **Navegue para a pasta `src`:**
