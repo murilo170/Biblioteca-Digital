@@ -52,4 +52,4 @@ Este projeto foi desenvolvido por:
 **Murilo Souza / @murilo107**
 
 * **LinkedIn:** www.linkedin.com/in/murilo-souza-0a00291ab
-* **GitHub:** (https://github.com/murilo170)
+* **GitHub:** https://github.com/murilo170
